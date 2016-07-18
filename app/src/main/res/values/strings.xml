@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Game Profile</string>
+
+    <string name="event_title">ESKA finals</string>
+    <string name="event_venue">Δαΐς</string>
+    <string name="event_date">21/05</string>
+    <string name="event_description"> Greece basketball U16 national championship. Come and watch the great Nikolao Barmpatsalo playing his last game
+                                    before following the engineering career path.</string>
+    <string name="event_comments"> BARMPATS, ALITH, GAMA TOUS TO SPITI.
+                                    BARMPATSALOS, POROMPOROMPOPEROPERO, POROMPOROMPOPEROPERO, POROMPOROMPOPEROPEPOOO, BARMPATSALOS</string>
+
+    <string name="myGames_Active">Active Games</string>
+
+
+</resources>
